@@ -18,18 +18,8 @@ Parses IBM storage device XML config logs and generates a detailed Excel report 
    - FlashCopy groups & mappings
    - Remote Copy groups & mappings (replication)
    - FC & Ethernet port info
-   - Event log
+  
 
-## Screenshots
-
-### Sample Input XML
-![Input XML](screenshots/input-xml-sample.png)
-
-### Generated Excel Output
-![Excel Output](screenshots/output-excel-vdisk.png)
-
-### Host Mapping Sheet
-![Host Mapping](screenshots/output-excel-hostmapping.png)
 
 ## Requirements
 
